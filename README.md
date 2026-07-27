@@ -69,3 +69,8 @@ main/
 - Add PWM speed control instead of full-on/off GPIO driving
 - Add an ultrasonic sensor for auto-braking (see the Arduino "Smart Braking" car in this account's other repos for the same idea)
 - Switch the video pipeline to `picamera2` for lower latency than OpenCV's V4L2 capture
+
+## Author
+
+Hashibuzzaman Bhuiyan
+
