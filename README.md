@@ -74,3 +74,8 @@ main/
 
 Hashibuzzaman Bhuiyan
 
+
+## License
+
+This project is licensed under the [PolyForm Strict License 1.0.0](LICENSE) -- viewable for noncommercial/personal use, but redistribution and derivative works are not permitted.
+
